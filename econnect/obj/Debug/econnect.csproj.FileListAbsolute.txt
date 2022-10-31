@@ -1,0 +1,72 @@
+C:\Users\a-dlove\Source\Repos\econnect\econnect\obj\Debug\econnect.csprojAssemblyReference.cache
+C:\Users\a-dlove\Source\Repos\econnect\econnect\obj\Debug\econnect.csproj.CoreCompileInputs.cache
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\econnect.exe.config
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\econnect.exe
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\econnect.pdb
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\CsvHelper.dll
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\CsvHelper.xml
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\a-dlove\Source\Repos\econnect\econnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\a-dlove\Source\Repos\econnect\econnect\obj\Debug\econnect.csproj.CopyComplete
+C:\Users\a-dlove\Source\Repos\econnect\econnect\obj\Debug\econnect.exe
+C:\Users\a-dlove\Source\Repos\econnect\econnect\obj\Debug\econnect.pdb
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\econnect.exe.config
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\econnect.exe
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\econnect.pdb
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\CsvHelper.dll
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\Microsoft.Bcl.HashCode.dll
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\CsvHelper.xml
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\Microsoft.Bcl.HashCode.xml
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\obj\Debug\econnect.csprojAssemblyReference.cache
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\obj\Debug\econnect.csproj.CoreCompileInputs.cache
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\obj\Debug\econnect.csproj.CopyComplete
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\obj\Debug\econnect.exe
+Y:\Single Customer View\Integration Services\Applications\eConnect\econnect\econnect\obj\Debug\econnect.pdb
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\econnect.exe.config
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\econnect.exe
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\econnect.pdb
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\CsvHelper.dll
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\Microsoft.Bcl.HashCode.dll
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\CsvHelper.xml
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\Microsoft.Bcl.HashCode.xml
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\obj\Debug\econnect.csprojAssemblyReference.cache
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\obj\Debug\econnect.csproj.CoreCompileInputs.cache
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\obj\Debug\econnect.csproj.CopyComplete
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\obj\Debug\econnect.exe
+Y:\Single Customer View\Integration Services\Development applications\eConnect\econnect\econnect\obj\Debug\econnect.pdb
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\econnect.exe.config
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\econnect.exe
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\econnect.pdb
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\CsvHelper.dll
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\Microsoft.Bcl.HashCode.dll
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\CsvHelper.xml
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\Microsoft.Bcl.HashCode.xml
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\bin\Debug\System.Threading.Tasks.Extensions.xml
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\obj\Debug\econnect.csprojAssemblyReference.cache
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\obj\Debug\econnect.csproj.CoreCompileInputs.cache
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\obj\Debug\econnect.csproj.CopyComplete
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\obj\Debug\econnect.exe
+Y:\Single Customer View\Integration Services\SCV Data Integration\SCV Data Integration\econnect\econnect\obj\Debug\econnect.pdb
